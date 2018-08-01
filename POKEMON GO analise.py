@@ -39,8 +39,6 @@ dFada = ("Venenoso, Metálico, Fogo")
 # INFO
 van = "Vantagem: "
 des =  "Desvantagem: "
-teste de modificação 001
-
 
 # POKEMON
 Abra = van+vPsiquico, des+dPsiquico
